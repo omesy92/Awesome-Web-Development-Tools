@@ -1,0 +1,8 @@
+- README.md
+- frontend/
+  - index.html
+  - styles.css
+  - script.js
+- backend/
+  - server.py
+- contributing.md
